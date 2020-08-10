@@ -26,5 +26,12 @@ https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-window
 ![howto2](https://github.com/warenosyo2/DIY_12dollers_BluetoothWirelessButtonboxForSimWheel_ESP32/blob/master/Slide2.PNG "howto2")
 ![howto3](https://github.com/warenosyo2/DIY_12dollers_BluetoothWirelessButtonboxForSimWheel_ESP32/blob/master/Slide3.PNG "howto3")
 ![howto4](https://github.com/warenosyo2/DIY_12dollers_BluetoothWirelessButtonboxForSimWheel_ESP32/blob/master/Slide4.PNG "howto4")
+![howto5](https://github.com/warenosyo2/DIY_12dollers_BluetoothWirelessButtonboxForSimWheel_ESP32/blob/master/Slide5.PNG "howto5")
+![howto6](https://github.com/warenosyo2/DIY_12dollers_BluetoothWirelessButtonboxForSimWheel_ESP32/blob/master/Slide6.PNG "howto6")
+
+
+![howto7](https://github.com/warenosyo2/DIY_12dollers_BluetoothWirelessButtonboxForSimWheel_ESP32/blob/master/IMG_20200729_233846.jpg "howto7")
+![howto8](https://github.com/warenosyo2/DIY_12dollers_BluetoothWirelessButtonboxForSimWheel_ESP32/blob/master/IMG_20200729_202216.jpg "howto8")
+![howto9](https://github.com/warenosyo2/DIY_12dollers_BluetoothWirelessButtonboxForSimWheel_ESP32/blob/master/IMG_20200730_001929.jpg "howto9")
 
 
