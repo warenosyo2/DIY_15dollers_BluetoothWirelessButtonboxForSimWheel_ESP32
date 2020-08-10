@@ -19,6 +19,8 @@ Must be use with ESP32 BLE Gamepad library -> https://github.com/warenosyo2/ESP3
 If you are newbie of ESP32 Arduino IDE user, see the instruction before load my sketch
 https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 
+All of 3D data(STL and STEP) can be download from my Thingiverse page.
+https://www.thingiverse.com/thing:4566374
 
 
 
