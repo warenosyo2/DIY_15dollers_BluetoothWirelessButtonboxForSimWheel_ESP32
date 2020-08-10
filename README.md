@@ -1,4 +1,7 @@
-Check details on the Wiki page
+How to make DIY under $12 Bluetooth wireless buttonbox for sim-racing fans.
+In this case, I introduce Lolin32 board buy the source code allows to use any other ESP32 based development board like ESP32 Devkit-C(it has wireless certification for US/EU and also Japan).
+
+
 
 Lolin32 ESP32 based board with Li-po charger
 https://www.aliexpress.com/item/33009178296.html
